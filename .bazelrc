@@ -1,0 +1,2 @@
+build --action_env=CC=/usr/local/bin/gcc
+build --action_env=CC=/usr/local/bin/g++
